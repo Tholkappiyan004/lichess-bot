@@ -1,4 +1,4 @@
-# MAINTAINER [OIVAS7572](https://github.com/OIVAS7572)
+# MAINTAINER [chessinfo99](https://github.com/chessinfo99)
 
 [![Python](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml)
 [![Docker](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml)
